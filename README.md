@@ -1,5 +1,4 @@
 # How-to-Convert-a-PDF-File-Into-an-Audiobook-Using-Python
-How to Convert a PDF File Into an Audiobook Using Python
 
 Audiobooks are gaining more and more popularity over traditional eBooks. They’re more convenient as you can listen to them anytime and anywhere. 
 
